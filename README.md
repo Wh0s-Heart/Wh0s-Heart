@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Wh0s-Heart
+- 👀 I’m interested in avoiding Covid, working from home.
+- 🌱 I’m currently learning web development on FCC.
+- 💞️ I’m looking to collaborate on anything entry level, help me learn.
